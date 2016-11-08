@@ -170,6 +170,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="res\BikeStreeetBD.db" />
+    <None Include="res\Dogovor_prokata_snaryazhenia.dotx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
